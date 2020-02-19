@@ -6,11 +6,14 @@
 
 int factorialRecurs(int n)
 {
-	return 1;
-
+    return (n==1 | n==0) ?  1 : n * factorialRecurs(n-1);
 }
 
 int factorialDinam(int n)
 {
-	return 1;
+    int result = 1;
+    for(n; n>1; n--){
+        result*=n;
+    }
+    return result;
 }
