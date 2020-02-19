@@ -6,6 +6,7 @@
 #define CHANGE_H_
 
 #include <string>
+#include <vector>
 using namespace std;
 
 /* Calcula o troco num determinado montante m, utilizando um n�mero m�nimo
@@ -16,6 +17,14 @@ using namespace std;
  * Uma string com a sequ�ncia de valores das moedas por valores decrescente.
  * Por exemplo: calcChange(9, 3, {1, 2, 5}) = "5;2;2;"
  * */
+
+vector<vector<int>> allComb(int k);
 string calcChange(int m, int numCoins, int *coinValues);
+
+
+
+
+
+
 
 #endif /* CHANGE_H_ */
