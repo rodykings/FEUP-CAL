@@ -18,7 +18,6 @@ using namespace std;
  * Por exemplo: calcChange(9, 3, {1, 2, 5}) = "5;2;2;"
  * */
 
-vector<vector<int>> allComb(int k);
 string calcChange(int m, int numCoins, int *coinValues);
 
 
