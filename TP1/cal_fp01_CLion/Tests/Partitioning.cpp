@@ -31,16 +31,12 @@ int s_dynamic(int n,int k)
 	}
 
 	return table[n][k];
-
-
-
-
-
 }
 
 
 int b_recursive(int n)
 {
+
 	return 0;
 }
 
