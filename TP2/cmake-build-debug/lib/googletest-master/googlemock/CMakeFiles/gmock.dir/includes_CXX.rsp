@@ -1,0 +1,1 @@
+-IC:/Users/up201806534/Desktop/FEUP-CAL/TP2/lib/googletest-master/googlemock/include -IC:/Users/up201806534/Desktop/FEUP-CAL/TP2/lib/googletest-master/googlemock -isystem C:/Users/up201806534/Desktop/FEUP-CAL/TP2/lib/googletest-master/googletest/include -isystem C:/Users/up201806534/Desktop/FEUP-CAL/TP2/lib/googletest-master/googletest 

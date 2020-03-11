@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/NearestPoints.cpp
+limits
+-
+thread
+-
+algorithm
+-
+cmath
+-
+tgmath.h
+-
+NearestPoints.h
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/NearestPoints.h
+Point.h
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/Point.h
+
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/NearestPoints.h
+Point.h
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/Point.h
+
+C:/Users/up201806534/Desktop/FEUP-CAL/TP3/Tests/Point.h
+iostream
+-
+vector
+-
+

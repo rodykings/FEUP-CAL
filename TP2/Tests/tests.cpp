@@ -89,7 +89,7 @@ TEST(CAL_FP02, testSudokuNoneBackStepsRequired) {
     compareSudokus(out, sout);
 }
 
-/*
+
 TEST(CAL_FP02, testSudokuSomeBackStepsRequired) {
     int in[9][9] =
             {{7, 0, 5, 2, 6, 3, 4, 0, 9},
@@ -265,7 +265,7 @@ TEST(CAL_FP02, testSudokuImpossible) {
 
     compareSudokus(in, out);
 }
-*/
+
 
 TEST(CAL_FP02, testLabirinth) {
     int lab1[10][10] ={
